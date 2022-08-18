@@ -1,0 +1,22 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "gulp start progect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "author": "maleth",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "gulp-cssnano": "^2.1.3"
+  }
+}
